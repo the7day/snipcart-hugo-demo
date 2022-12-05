@@ -1,7 +1,7 @@
 +++
 customOptions = []
 date = "2018-05-15T19:17:09Z"
-image = "/v1527779589/snipcart-hugo-demo/plane.jpg"
+image = "/network.png"
 price = 75
 shortDescription = "It's time to smooth things over."
 title = "Plane"
